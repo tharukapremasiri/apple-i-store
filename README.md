@@ -1,2 +1,2 @@
-# appleStore
-Stock management system using Java
+# Appleistore
+stock management system using Java

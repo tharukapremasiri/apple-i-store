@@ -1,0 +1,2 @@
+C001,Tharuka,Premasiri,Cashier,985540330V,MMMdy,iamtharukaa@gmail.com,cashier,cashier001
+C002,Piyumi,Premasiri,Cashier,995540330V,YYYY-MM-DD,iampiyumi@gmail.com,cashier,cashier002
